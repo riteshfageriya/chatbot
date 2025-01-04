@@ -1,6 +1,6 @@
 # 🤖 Chatbot: AI-Powered Conversational Assistant
 
-![Chatbot Banner](https://via.placeholder.com/1200x300?text=Chatbot+Project)
+![Chatbot Banner](https://github.com/schnrj/ChatBot/blob/main/ChatBot.jpg)
 
 ## 🚀 Overview
 The **Chatbot** project is an intelligent conversational assistant that uses cutting-edge AI technologies to simulate human-like interactions. It understands user inputs, processes them in real-time, and provides accurate, context-aware responses. Ideal for automating repetitive tasks, enhancing customer experience, and scaling interactions seamlessly.
@@ -41,7 +41,7 @@ The **Chatbot** project is an intelligent conversational assistant that uses cut
 ## 🔧 Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/schnrj/ChatBot.git
+   git clone https://github.com/your-username/chatbot.git
    cd chatbot
    ```
 
@@ -100,6 +100,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 For questions or feedback, reach out at:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/your-linkedin-profile)
+- **Email**: b22ee057@iitj.ac.in
+- **GitHub**: [schnrj](https://github.com/schnrj)
+- **LinkedIn**: [Sachin Raj](https://linkedin.com/in/your-linkedin-profile)
