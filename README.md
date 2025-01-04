@@ -41,7 +41,7 @@ The **Chatbot** project is an intelligent conversational assistant that uses cut
 ## 🔧 Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/chatbot.git
+   git clone https://github.com/schnrj/ChatBot.git
    cd chatbot
    ```
 
@@ -79,7 +79,7 @@ The **Chatbot** project is an intelligent conversational assistant that uses cut
 
 ## 🌟 Screenshots
 ### Chat Interface
-![Chat Interface](https://via.placeholder.com/800x400?text=Chat+Interface)
+![Chatbot Banner](https://github.com/schnrj/ChatBot/blob/main/ChatBot.jpg)
 
 ---
 
