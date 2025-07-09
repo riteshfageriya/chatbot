@@ -77,9 +77,7 @@ The **Chatbot** project is an intelligent conversational assistant that uses cut
 
 ---
 
-## 🌟 Screenshots
-### Chat Interface
-![Chatbot Banner](https://github.com/schnrj/ChatBot/blob/main/ChatBot.jpg)
+
 
 ---
 
@@ -97,9 +95,3 @@ Contributions are welcome! Follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 📬 Contact
-For questions or feedback, reach out at:
-- **Email**: b22ee057@iitj.ac.in
-- **GitHub**: [schnrj](https://github.com/schnrj)
-- **LinkedIn**: [Sachin Raj](https://linkedin.com/in/your-linkedin-profile)
