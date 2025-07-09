@@ -41,7 +41,7 @@ The **Chatbot** project is an intelligent conversational assistant that uses cut
 ## 🔧 Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/schnrj/ChatBot.git
+   git clone https://github.com/riteshfageriya/chatbot.git
    cd chatbot
    ```
 
